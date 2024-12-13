@@ -28,8 +28,8 @@
 
 1. **Клонирование репозитория**
    ```bash
-   git clone <URL данного репозитория>
-   cd <название репозитория>
+   git clone https://github.com/Dzeytov/academic_statistics.git
+   cd academic_statistics
    ```
 
 2. **Установка зависимостей**
